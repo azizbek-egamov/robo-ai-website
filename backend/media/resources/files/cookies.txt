@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.pcg.uz	TRUE	/	FALSE	1999999999	__ddg1_	fcKfGCSSW5knBPVeC2yL
+.pcg.uz	TRUE	/	FALSE	1999999999	__ddg8_	tn9vqPpTTEoDDH1M
+.pcg.uz	TRUE	/	FALSE	1999999999	__ddg10_	1744553731
+.pcg.uz	TRUE	/	FALSE	1999999999	__ddg9_	213.230.93.18
+
